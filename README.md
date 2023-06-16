@@ -23,5 +23,3 @@ Reduce the resolution of embedded images and output the PDF file containing imag
 4. Now your converted pdf files will be in `./output` folder.
 
 You can update preferImageWidth in main.mjs to update image width.
-
-* [ ]
